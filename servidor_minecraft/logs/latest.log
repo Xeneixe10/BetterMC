@@ -4270,3 +4270,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Jun2025 01:53:16.790] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
 [05Jun2025 01:53:16.791] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [05Jun2025 01:53:16.839] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@148de77c[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61299) lost connection: Connection closed - mismatched mod channel list
+[05Jun2025 01:56:41.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[05Jun2025 01:57:00.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[05Jun2025 01:57:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Sweet Dreams]
+[05Jun2025 01:57:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [The Lighthouse]
+[05Jun2025 01:58:12.228] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 59 chunks for dimension 'overworld' took 1 milliseconds
+[05Jun2025 01:59:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[05Jun2025 01:59:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[05Jun2025 02:02:06.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Acquire Hardware]
+[05Jun2025 02:03:12.221] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 86 chunks for dimension 'overworld' took 0 milliseconds
+[05Jun2025 02:03:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Spectator Mode]
+[05Jun2025 02:04:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
