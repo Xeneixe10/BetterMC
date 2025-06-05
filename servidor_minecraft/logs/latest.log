@@ -4226,3 +4226,47 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [05Jun2025 01:43:48.153] [Worker-Main-11/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [05Jun2025 01:43:48.400] [Worker-Main-11/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 247ms
 [05Jun2025 01:44:58.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Alex's Mobs]
+[05Jun2025 01:46:57.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set the time to 1000]
+[05Jun2025 01:48:05.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Stone Age]
+[05Jun2025 01:48:12.339] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 20 chunks for dimension 'overworld' took 1 milliseconds
+[05Jun2025 01:48:35.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Creative Mode]
+[05Jun2025 01:48:45.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElTermi04: Set own game mode to Survival Mode]
+[05Jun2025 01:49:13.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 has made the advancement [Getting an Upgrade]
+[05Jun2025 01:49:56.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTermi04 lost connection: Disconnected
+[05Jun2025 01:49:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 left the game
+[05Jun2025 01:49:56.542] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dcec059e-5777-39ca-a449-3f50e71571e6
+[05Jun2025 01:50:47.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTermi04[/10.147.17.96:53747] logged in with entity id 1051 at (77.26734269308193, 66.0, -61.42772273386186)
+[05Jun2025 01:50:47.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ElTermi04
+[05Jun2025 01:50:47.951] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ElTermi04
+[05Jun2025 01:50:47.952] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ElTermi04
+[05Jun2025 01:50:47.954] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ElTermi04
+[05Jun2025 01:50:47.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ElTermi04
+[05Jun2025 01:50:47.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ElTermi04
+[05Jun2025 01:50:47.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ElTermi04
+[05Jun2025 01:50:47.978] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05Jun2025 01:50:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTermi04 joined the game
+[05Jun2025 01:50:48.118] [Server thread/INFO] [Jade/]: Syncing config to ElTermi04 (dcec059e-5777-39ca-a449-3f50e71571e6)
+[05Jun2025 01:50:48.119] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dcec059e-5777-39ca-a449-3f50e71571e6
+[05Jun2025 01:50:48.665] [Server thread/INFO] [ping-wheel/]: Channel update: ElTermi04 -> default
+[05Jun2025 01:50:59.622] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[05Jun2025 01:50:59.623] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jun2025 01:50:59.644] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42935432[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61165) lost connection: Connection closed - mismatched mod channel list
+[05Jun2025 01:51:08.849] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[05Jun2025 01:51:08.849] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jun2025 01:51:08.889] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@798ff2bc[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61182) lost connection: Connection closed - mismatched mod channel list
+[05Jun2025 01:51:16.493] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[05Jun2025 01:51:16.493] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jun2025 01:51:16.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25faec7d[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61189) lost connection: Connection closed - mismatched mod channel list
+[05Jun2025 01:51:44.393] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[05Jun2025 01:51:44.394] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jun2025 01:51:44.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2caa33e4[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61218) lost connection: Connection closed - mismatched mod channel list
+[05Jun2025 01:52:23.886] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[05Jun2025 01:52:23.886] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jun2025 01:52:23.891] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5add90c9[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61251) lost connection: Connection closed - mismatched mod channel list
+[05Jun2025 01:52:37.490] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[05Jun2025 01:52:37.490] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jun2025 01:52:37.541] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43bc7d53[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61263) lost connection: Connection closed - mismatched mod channel list
+[05Jun2025 01:53:12.270] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 27 chunks for dimension 'overworld' took 1 milliseconds
+[05Jun2025 01:53:16.790] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[05Jun2025 01:53:16.791] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jun2025 01:53:16.839] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@148de77c[id=<null>,name=qdrix,properties={},legacy=false] (/10.147.17.79:61299) lost connection: Connection closed - mismatched mod channel list
